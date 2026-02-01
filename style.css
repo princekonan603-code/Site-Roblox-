@@ -1,0 +1,82 @@
+
+
+<style>
+.h10{
+  font-size:30px}
+    body{
+      background: linear-gradient(180deg, #2b2b2b, #1a1a1a);
+      font-family: Arial, sans-serif;
+      color: #eee;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .container{
+      max-width: 420px;
+      margin: auto;
+      background: #2f2f2f;
+      padding: 15px;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.5);
+    }
+
+    h1{
+      color: #ff3c3c;
+      margin-bottom: 5px;
+    }
+
+    h2{
+      font-size: 14px;
+      color: #ffb3b3;
+    }
+
+    p{
+      font-size: 13px;
+      line-height: 1.5;
+    }
+
+    .img{
+      width: 100%;
+      max-width: 300px;
+      border-radius: 10px;
+      margin-top: 15px;
+      transition: transform 0.3s ease;
+    }
+
+    .img:hover{
+      transform: scale(1.05);
+    }
+
+    .video{
+      width: 100%;
+      max-width: 300px;
+      margin-top: 15px;
+      border-radius: 10px;
+    }
+
+    .btn{
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 20px;
+      background: #ff3c3c;
+      color: white;
+      text-decoration: none;
+      border-radius: 50px;
+      font-size: 19px;
+      font-weight: bold;
+      transition: background 0.3s ease, transform 0.2s ease;
+    }
+
+    .btn:hover{
+      background: #ff5f5f;
+      transform: scale(1.05);
+    }
+
+    .lore{
+      margin-top: 15px;
+      font-style: italic;
+      font-size: 12px;
+      color: #ccc;
+    }
+  </style>
